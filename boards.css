@@ -1,0 +1,112 @@
+
+head{
+    color:aquamarine;
+}
+
+h1{
+    color:white;
+    font-style: italic;
+    
+}
+
+body{
+    color:hotpink;
+    background-color:black;
+}
+
+p{
+    color: goldenrod;
+    font-size: 1.0;
+}
+
+.h1p2{
+    color:crimson;
+    font-size: 2.0em;
+}
+
+.L1{
+    font-size: 1.5em;
+    color:coral;
+}
+
+.L2{
+    font-size: 1.5em;
+    color:coral;
+
+}
+.L3{
+    font-size: 1.5em;
+    color:coral;
+}
+
+.T1{
+    color:hotpink;
+    font-size: 1.5em;
+
+}
+
+.h2{
+    color:crimson;
+    font-size:2.5em;
+}
+
+.L4{
+    color:coral;
+    font-size:1.5em;
+}
+
+.L5{
+    color:coral;
+    font-size:1.5em;
+}
+
+.L6{
+    color:coral;
+    font-size:1.5em
+}
+.T2{
+    color:hotpink;
+    font-size:1.5em;
+}
+
+p4{
+    color:goldenrod;
+    font-size:1.0em;
+}
+.h4{
+    color:crimson;
+    font-size:2.5em;
+}
+
+.L7{
+    color:coral;
+    font-size:1.5em;
+}
+.L8{
+    color:coral;
+    font-size:1.5em;
+}
+.L9{
+    color:coral;
+    font-size:1.5em;
+}
+.h5{
+    color:crimson;
+    font-size:2.5em;
+}
+.L10{
+    color:coral;
+    font-size:1.5em;
+}
+.L11{
+    color:coral;
+    font-size:1.5em;
+}
+.L12{
+    color:coral;
+    font-size:1.5em;
+}
+h6{
+    color:crimson;
+    font-size:2.5em;
+}

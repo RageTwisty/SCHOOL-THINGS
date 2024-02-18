@@ -1,0 +1,23 @@
+body{
+    background-color:darkcyan;
+    font-size: 2.1em;
+
+}
+h1 {
+    color:red;
+}
+#intro {
+    font-size: 1.0em;
+    color:green;
+}
+.colorful {
+    color: blueviolet;
+
+}
+p {
+    text-align: center;
+    color: yellow;
+}
+a:link{
+    color:white
+}
